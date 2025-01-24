@@ -1,0 +1,1 @@
+print("Em 5 anos, você terá", int(input("Idade: ")) + 5, "anos.")
